@@ -3,6 +3,6 @@ class Login
 {
     public function index()
     {
-        echo "Pagina de login <br>";
+        echo "Pagina de login! <br>";
     }
 }
