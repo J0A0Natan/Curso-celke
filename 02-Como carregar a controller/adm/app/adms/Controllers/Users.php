@@ -3,6 +3,6 @@ class Users
 {
     public function index()
     {
-        echo "Pagina listar users <br>";
+        echo "Pagina listar usuarios <br>";
     }
 }
